@@ -70,7 +70,6 @@ export default function Page() {
                 href={work.href}
                 badges={work.badges}
                 period={`${work.start} - ${work.end ?? "Present"}`}
-                description={work.description}
               />
             </BlurFade>
           ))}
@@ -186,7 +185,6 @@ export default function Page() {
                   dates={project.dates}
                   tags={project.technologies}
                   image={project.image}
-                  video={project.video}
                   links={project.links}
                 />
               </BlurFade>
