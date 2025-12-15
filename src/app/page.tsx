@@ -125,7 +125,7 @@ export default function Page() {
                   ML Competitions
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                 I participated in machine learning competitions and earned awards along with invitations to present my work at dedicated sessions at NeurIPS and IEEE BigData.
+                 I participated in machine learning competitions and earned awards along with invitations to present my work at ML conferences.
                 </p>
               </div>
             </div>

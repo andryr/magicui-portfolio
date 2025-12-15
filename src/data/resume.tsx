@@ -8,9 +8,9 @@ export const DATA = {
   location: "New York, NY",
   locationLink: "https://www.google.com/maps/place/new+york",
   description:
-    "Software engineer with 2 years of industry experience and a strong mathematical background, now focused on becoming an ML researcher.",
+    "Software engineer with 3 years of industry experience and a strong mathematical background, now focused on becoming an ML researcher.",
   summary:
-    "I studied applied mathematics and started my career as a software engineer in big tech. After that, I briefly worked on mathematical optimization before moving into front-office finance. I’ve always been passionate about machine learning, competing in ML challenges and working on research-style projects alongside my work. I’m now focused on developing the skills to become an ML researcher.",
+    "I studied applied mathematics and started my career as a software engineer in big tech. After that, I briefly worked on mathematical optimization before moving into front-office finance. I’ve always been passionate about machine learning, competing in ML challenges and working on research-style projects alongside my work. I’m now focused on transitioning toward ML research.",
   avatarUrl: "/avatar.jpeg",
 
   skills: [
